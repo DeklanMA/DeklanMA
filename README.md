@@ -18,11 +18,6 @@ Berikut adalah beberapa proyek terbaru yang sedang saya kerjakan:
    - Deskripsi singkat proyek.
    - Teknologi yang digunakan: [Teknologi 1, Teknologi 2, dll.]
 
-## Kontribusi
-
-Saya juga aktif berkontribusi ke repositori open source. Beberapa kontribusi saya melibatkan:
-
-- [Nama Proyek/Open Source Repository](link_repository): Deskripsi singkat kontribusi.
 
 ## Hubungi Saya
 
