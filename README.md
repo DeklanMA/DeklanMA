@@ -4,7 +4,7 @@ Selamat datang di profil GitHub saya! Saya Deklan Malik Akbar, seorang Software 
 
 ## Tentang Saya
 
-Saya adalah Mahasiswa Itenas Jurusan Informatika dengan pengalaman Magang dan kerja sebagai Freelance web developer,Telah mengembangkan 7+ Website 1,5 tahun,Pekerja Keras dan mampu bekerja di bawah tekanan ,Berdedikasi Untuk Terus Berkembang . Saya tertarik pada Framework Laravel,ReacJS,Node.js,Express.js,, dan saya terus belajar dan mengembangkan keterampilan saya dalam Front-End, Back-End dan Software engineering .
+Saya adalah Mahasiswa Itenas Jurusan Informatika,Telah mengembangkan 7+ Website 1,5 tahun,Pekerja Keras dan mampu bekerja di bawah tekanan ,Berdedikasi Untuk Terus Berkembang . Saya tertarik pada Framework Laravel,ReacJS,Node.js,Express.js,, dan saya terus belajar dan mengembangkan keterampilan saya dalam Front-End, Back-End dan Software engineering .
 
 ## Proyek Terbaru
 
