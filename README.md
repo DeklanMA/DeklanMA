@@ -15,15 +15,15 @@ Berikut adalah beberapa proyek terbaru yang sedang saya kerjakan:
      tingkat air, suhu, dan status pompa pada tangki air. Selain itu, sistem dapat mengoptimalkan penggunaan air dengan mengaktifkan dan menonaktifkan pompa sesuai kebutuhan, serta memberikan informasi visual 
      tentang volume dan persentase air dalam tangki.
    - Teknologi yang Digunakan:
-     1.ESP32 WROOM: Sebagai mikrokontroler utama yang mengintegrasikan semua komponen dan bertanggung jawab untuk mengirimkan data ke server.
-     2.Sensor Ultrasonik HC-SR04: Digunakan untuk mengukur kedalaman air dalam tangki.
-     3.Sensor Suhu DS18B20: Untuk memantau suhu air dalam tangki.
-     4.Sensor Water Flow YFS201: Mengukur aliran air untuk pengukuran volume dan durasi pengisian.
-     5.Pompa 12v dan Relay: Untuk mengontrol aliran air ke tangki sesuai dengan kebutuhan.
-     6.Teknologi Sensor dan IoT: Digunakan untuk pengumpulan dan pengiriman data ke server secara efisien.
-     7.Antarmuka Pengguna Web: Membangun antarmuka pengguna yang responsif dan informatif untuk pemantauan data secara visual.
-     8.Baja Ringan, Pipa Paralon, dan Akrilik: Sebagai bahan konstruksi fisik untuk struktur tangki dan penutup sensor.
-     9.Laravel sebagai backend dan front-end
+      1. **ESP32 WROOM**: Sebagai mikrokontroler utama yang mengintegrasikan semua komponen dan bertanggung jawab untuk mengirimkan data ke server.
+      2. **Sensor Ultrasonik HC-SR04**: Digunakan untuk mengukur kedalaman air dalam tangki.
+      3. **Sensor Suhu DS18B20**: Untuk memantau suhu air dalam tangki.
+      4. **Sensor Water Flow YFS201**: Mengukur aliran air untuk pengukuran volume dan durasi pengisian.
+      5. **Pompa 12v dan Relay**: Untuk mengontrol aliran air ke tangki sesuai dengan kebutuhan.
+      6. **Teknologi Sensor dan IoT**: Digunakan untuk pengumpulan dan pengiriman data ke server secara efisien.
+      7. **Antarmuka Pengguna Web**: Membangun antarmuka pengguna yang responsif dan informatif untuk pemantauan data secara visual.
+      8. **Baja Ringan, Pipa Paralon, dan Akrilik**: Sebagai bahan konstruksi fisik untuk struktur tangki dan penutup sensor.
+      9. **Laravel** : sebagai backend dan front-end
 
 2. **Elprofestore**
    - Elprofestore adalah proyek website inovatif yang bertujuan menyediakan platform jual beli Diamond untuk permainan populer seperti Mobile Legends, PUBG, dan Valorant. Menggunakan teknologi modern seperti         NodeJS dengan Express.js, MySQL, dan Sequelize ORM, proyek ini memberikan pengguna pengalaman berbelanja yang lancar dan aman.Proyek ini tidak hanya menawarkan pilihan Diamond yang beragam, tetapi juga menyertakan fitur keamanan tinggi, termasuk otentikasi pengguna menggunakan PassportJs dan otentikasi layanan API menggunakan JWT.Dengan menggunakan Ejs sebagai mesin templat, Elprofestore menyajikan informasi produk secara dinamis, memastikan pengguna mendapatkan detail yang jelas tentang setiap pembelian Diamond.Melalui antarmuka pengguna yang responsif, pengguna dapat dengan mudah menjelajahi dan memilih paket Diamond yang sesuai dengan kebutuhan mereka. Dukungan penuh untuk REST API memungkinkan koneksi yang efisien antara klien dan server, meningkatkan responsivitas dan kecepatan website.Elprofestore memberikan solusi terpadu untuk para gamer yang mencari cara mudah dan aman untuk memperoleh Diamond dalam permainan favorit mereka. Dengan teknologi-teknologi terkini, proyek ini mewujudkan visi untuk menyediakan layanan jual beli Diamond yang handal dan efisien..
