@@ -28,14 +28,14 @@ Berikut adalah beberapa proyek terbaru yang sedang saya kerjakan:
 2. **Elprofestore**
    - Elprofestore adalah proyek website inovatif yang bertujuan menyediakan platform jual beli Diamond untuk permainan populer seperti Mobile Legends, PUBG, dan Valorant. Menggunakan teknologi modern seperti         NodeJS dengan Express.js, MySQL, dan Sequelize ORM, proyek ini memberikan pengguna pengalaman berbelanja yang lancar dan aman.Proyek ini tidak hanya menawarkan pilihan Diamond yang beragam, tetapi juga menyertakan fitur keamanan tinggi, termasuk otentikasi pengguna menggunakan PassportJs dan otentikasi layanan API menggunakan JWT.Dengan menggunakan Ejs sebagai mesin templat, Elprofestore menyajikan informasi produk secara dinamis, memastikan pengguna mendapatkan detail yang jelas tentang setiap pembelian Diamond.Melalui antarmuka pengguna yang responsif, pengguna dapat dengan mudah menjelajahi dan memilih paket Diamond yang sesuai dengan kebutuhan mereka. Dukungan penuh untuk REST API memungkinkan koneksi yang efisien antara klien dan server, meningkatkan responsivitas dan kecepatan website.Elprofestore memberikan solusi terpadu untuk para gamer yang mencari cara mudah dan aman untuk memperoleh Diamond dalam permainan favorit mereka. Dengan teknologi-teknologi terkini, proyek ini mewujudkan visi untuk menyediakan layanan jual beli Diamond yang handal dan efisien..
    - Teknologi yang digunakan:
-   1. **JavaScript**
-   2. **NodeJS** with **Express.js** framework
-   3. **REST API**
-   4. **MySQL** database
-   5. **Seqeulize** ORM
-   6. **PassportJs** for User Authentication
-   7. **JWT** for API Service Authentication
-   8. **Ejs** Template Engine
+      1. **JavaScript**
+      2. **NodeJS** with **Express.js** framework
+      3. **REST API**
+      4. **MySQL** database
+      5. **Seqeulize** ORM
+      6. **PassportJs** for User Authentication
+      7. **JWT** for API Service Authentication
+      8. **Ejs** Template Engine
 
 
 ## Hubungi Saya
