@@ -25,7 +25,7 @@ Berikut adalah beberapa proyek terbaru yang sedang saya kerjakan:
       8. **Baja Ringan, Pipa Paralon, dan Akrilik**: Sebagai bahan konstruksi fisik untuk struktur tangki dan penutup sensor.
       9. **Laravel** : sebagai backend dan front-end
           
-   -Link Repository [https://github.com/DeklanMA/Water-Tank-Monitoring]
+   - Link Repository [https://github.com/DeklanMA/Water-Tank-Monitoring]
 
 
 2. **Elprofestore**
