@@ -37,12 +37,14 @@ Berikut adalah beberapa proyek terbaru yang sedang saya kerjakan:
       7. **JWT** for API Service Authentication
       8. **Ejs** Template Engine
 
+   -Link Repository [https://github.com/DeklanMA/Elprofestore]
+
 
 ## Hubungi Saya
 
 Jika Anda ingin berbicara atau berkolaborasi, jangan ragu untuk menghubungi saya melalui:
 
-- Email: deklanmalik@gmail.com
+- Email: [deklanmalik@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/deklan-malik-akbar-063686297/]
 
 
