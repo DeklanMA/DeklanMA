@@ -23,7 +23,8 @@ Berikut adalah beberapa proyek terbaru yang sedang saya kerjakan:
       6. **Teknologi Sensor dan IoT**: Digunakan untuk pengumpulan dan pengiriman data ke server secara efisien.
       7. **Antarmuka Pengguna Web**: Membangun antarmuka pengguna yang responsif dan informatif untuk pemantauan data secara visual.
       8. **Baja Ringan, Pipa Paralon, dan Akrilik**: Sebagai bahan konstruksi fisik untuk struktur tangki dan penutup sensor.
-      9. **Laravel** : sebagai backend dan front-end
+      9. **Flask** : sebagai backend/Webserver menjadi menerima data dari mqtt dan dibuat rest api untuk menampilkan data secara real-time dan pengolahan datanya
+      10. **Laravel** : Sebagai Front-end 
           
    - Link Repository [https://github.com/DeklanMA/Water-Tank-Monitoring]
 
