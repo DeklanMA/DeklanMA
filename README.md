@@ -2,55 +2,31 @@
 
 Selamat datang di profil GitHub saya! Saya Deklan Malik Akbar, seorang Software engineering dengan minat dalam Back-End. Di sini, Anda akan menemukan proyek-proyek terbaru, kontribusi, dan beberapa informasi tambahan tentang diri saya.
 
-## Tentang Saya
-
+# 💫 About Me:
 Saya adalah Mahasiswa Itenas Jurusan Informatika,Telah mengembangkan 7+ Website 1,5 tahun,Pekerja Keras dan mampu bekerja di bawah tekanan ,Berdedikasi Untuk Terus Berkembang . Saya tertarik pada Framework Laravel,ReacJS,Node.js,Express.js,, dan saya terus belajar dan mengembangkan keterampilan saya dalam Front-End, Back-End dan Software engineering .
 
-## Proyek Terbaru
 
-Berikut adalah beberapa proyek terbaru yang sedang saya kerjakan:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deklanmalik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/deklanma) 
 
-1. **Water Tank monitoring**
-   - Proyek ini bertujuan untuk mengembangkan sistem otomatis monitoring dan kontrol tangki air menggunakan teknologi Internet of Things (IoT). Sistem ini memungkinkan pengguna untuk memantau secara real-time 
-     tingkat air, suhu, dan status pompa pada tangki air. Selain itu, sistem dapat mengoptimalkan penggunaan air dengan mengaktifkan dan menonaktifkan pompa sesuai kebutuhan, serta memberikan informasi visual 
-     tentang volume dan persentase air dalam tangki.
-   - Teknologi yang Digunakan:
-      1. **ESP32 WROOM**: Sebagai mikrokontroler utama yang mengintegrasikan semua komponen dan bertanggung jawab untuk mengirimkan data ke server.
-      2. **Sensor Ultrasonik HC-SR04**: Digunakan untuk mengukur kedalaman air dalam tangki.
-      3. **Sensor Suhu DS18B20**: Untuk memantau suhu air dalam tangki.
-      4. **Sensor Water Flow YFS201**: Mengukur aliran air untuk pengukuran volume dan durasi pengisian.
-      5. **Pompa 12v dan Relay**: Untuk mengontrol aliran air ke tangki sesuai dengan kebutuhan.
-      6. **Teknologi Sensor dan IoT**: Digunakan untuk pengumpulan dan pengiriman data ke server secara efisien.
-      7. **Antarmuka Pengguna Web**: Membangun antarmuka pengguna yang responsif dan informatif untuk pemantauan data secara visual.
-      8. **Baja Ringan, Pipa Paralon, dan Akrilik**: Sebagai bahan konstruksi fisik untuk struktur tangki dan penutup sensor.
-      9. **Flask** : sebagai backend/Webserver menjadi menerima data dari mqtt dan dibuat rest api untuk menampilkan data secara real-time dan pengolahan datanya
-      10. **Laravel** : Sebagai Front-end 
-          
-   - Link Repository [https://github.com/DeklanMA/Water-Tank-Monitoring]
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DeklanMA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DeklanMA&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeklanMA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DeklanMA&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-2. **Elprofestore**
-   - Elprofestore adalah proyek website inovatif yang bertujuan menyediakan platform jual beli Diamond untuk permainan populer seperti Mobile Legends, PUBG, dan Valorant. Menggunakan teknologi modern seperti         NodeJS dengan Express.js, MySQL, dan Sequelize ORM, proyek ini memberikan pengguna pengalaman berbelanja yang lancar dan aman.Proyek ini tidak hanya menawarkan pilihan Diamond yang beragam, tetapi juga menyertakan fitur keamanan tinggi, termasuk otentikasi pengguna menggunakan PassportJs dan otentikasi layanan API menggunakan JWT.Dengan menggunakan Ejs sebagai mesin templat, Elprofestore menyajikan informasi produk secara dinamis, memastikan pengguna mendapatkan detail yang jelas tentang setiap pembelian Diamond.Melalui antarmuka pengguna yang responsif, pengguna dapat dengan mudah menjelajahi dan memilih paket Diamond yang sesuai dengan kebutuhan mereka. Dukungan penuh untuk REST API memungkinkan koneksi yang efisien antara klien dan server, meningkatkan responsivitas dan kecepatan website.Elprofestore memberikan solusi terpadu untuk para gamer yang mencari cara mudah dan aman untuk memperoleh Diamond dalam permainan favorit mereka. Dengan teknologi-teknologi terkini, proyek ini mewujudkan visi untuk menyediakan layanan jual beli Diamond yang handal dan efisien..
-   - Teknologi yang digunakan:
-      1. **JavaScript**
-      2. **NodeJS** with **Express.js** framework
-      3. **REST API**
-      4. **MySQL** database
-      5. **Seqeulize** ORM
-      6. **PassportJs** for User Authentication
-      7. **JWT** for API Service Authentication
-      8. **Ejs** Template Engine
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-   - Link Repository [https://github.com/DeklanMA/Elprofestore]
+---
+[![](https://visitcount.itsvg.in/api?id=DeklanMA&icon=0&color=3)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/DeklanMA) 
 
-## Hubungi Saya
-
-Jika Anda ingin berbicara atau berkolaborasi, jangan ragu untuk menghubungi saya melalui:
-
-- Email: [deklanmalik@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/deklan-malik-akbar-063686297/]
-
-
-Terima kasih telah mengunjungi profil GitHub saya!
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
