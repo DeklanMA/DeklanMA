@@ -2,7 +2,6 @@
 
 Selamat datang di profil GitHub saya! Saya Deklan Malik Akbar, seorang Software engineering dengan minat dalam Back-End. Di sini, Anda akan menemukan proyek-proyek terbaru, kontribusi, dan beberapa informasi tambahan tentang diri saya.
 
-
 # 💫 About Me:
 Saya adalah Mahasiswa Itenas Jurusan Informatika,Telah mengembangkan 7+ Website 1,5 tahun,Pekerja Keras dan mampu bekerja di bawah tekanan ,Berdedikasi Untuk Terus Berkembang . Saya tertarik pada Framework Laravel,ReacJS,Node.js,Express.js,, dan saya terus belajar dan mengembangkan keterampilan saya dalam Front-End, Back-End dan Software engineering.
 
@@ -16,8 +15,8 @@ Saya adalah Mahasiswa Itenas Jurusan Informatika,Telah mengembangkan 7+ Website 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DeklanMA&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeklanMA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DeklanMA&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+//## 🏆 GitHub Trophies
+//![](https://github-profile-trophy.vercel.app/?username=DeklanMA&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
