@@ -15,9 +15,6 @@ Saya adalah Mahasiswa Itenas Jurusan Informatika,Telah mengembangkan 7+ Website 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DeklanMA&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeklanMA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DeklanMA&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
