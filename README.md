@@ -3,7 +3,7 @@
 Selamat datang di profil GitHub saya! Saya Deklan Malik Akbar, seorang Software engineering dengan minat dalam Back-End. Di sini, Anda akan menemukan proyek-proyek terbaru, kontribusi, dan beberapa informasi tambahan tentang diri saya.
 
 # 💫 About Me:
-Saya adalah Mahasiswa Itenas Jurusan Informatika,Telah mengembangkan 7+ Website 1,5 tahun,Pekerja Keras dan mampu bekerja di bawah tekanan ,Berdedikasi Untuk Terus Berkembang . Saya tertarik pada Framework Laravel,ReacJS,Node.js,Express.js,, dan saya terus belajar dan mengembangkan keterampilan saya dalam Front-End, Back-End dan Software engineering.
+Saya adalah Mahasiswa Itenas Jurusan Informatika,Telah mengembangkan 9+ Website 2,5 tahun,Pekerja Keras dan mampu bekerja di bawah tekanan ,Berdedikasi Untuk Terus Berkembang . Saya tertarik pada Framework Laravel,ReacJS,Node.js,Express.js,, dan saya terus belajar dan mengembangkan keterampilan saya dalam Front-End, Back-End dan Software engineering.
 
 
 ## 🌐 Socials:
